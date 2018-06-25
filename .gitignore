@@ -1,0 +1,11 @@
+.classpath
+.project
+.settings
+bin
+build
+target
+# IntelliJ git ignore
+.idea
+*.iml
+
+dependency-reduced-pom.xml
